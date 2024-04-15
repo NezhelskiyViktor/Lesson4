@@ -1,4 +1,4 @@
-# Comment fo my
+# Comment fo my_new_main
 
-a = 3
-b = 8
+a = 30
+b = 80
