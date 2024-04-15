@@ -1,4 +1,4 @@
-# Comment fo my_new_main
+# Комментарий для my_new_main
 
-a = 30
-b = 80
+a = 300
+b = 800
